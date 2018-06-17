@@ -10,7 +10,7 @@ date:
 ## 1.1 summary of argument / definitions
 ### abstract
 
-Almost thirty years ago Edmund Burke III made three claims in his attempt to apply C. Tilly's "repertoire of contenion" historical Middle Eastern societies: invariably contentions started at the chief mosque of a city, the crowds attacked foodstores, and food riots disappeared with the 19th century.[^1] Retaining Tilly's analytical framework, this paper proves all three claims wrong by presenting a first analysis of a growing sample of currently 14 food riots in Aleppo, Beirut, Damascus, Hama, and Homs at the end of Ottoman rule between 1878 and 1918. 
+Almost thirty years ago Edmund Burke III made three claims in his attempt to apply C. Tilly's "repertoire of contenion" historical Middle Eastern societies: invariably contentions started at the chief mosque of a city, the crowds attacked foodstores, and food riots disappeared with the 19th century.[^1] Retaining Tilly's analytical framework, this paper proves all three claims wrong by presenting a first analysis of a <!-- growing --> sample of <!-- currently 14 --> food riots in Aleppo, Beirut, Damascus, Hama, Homs, Jafa, and Jerusalem at the end of Ottoman rule between 1878 and 1918. 
 
 During these food riots, large groups of poor men and women gathered at central squares and in front of the authorities in demand for *equitable distribution* and *fair access* to *available bread*. Starting with an observable absence of direct causal relations between food prices and food riots and only rare instances of looting, which did not commonly target foodstores, I argue that food riots were neither particularly riotous nor predominantly concerned with food. Instead, the demand for *bread* had a symbolic value and was part of a relatively stable "repertoire of contention" that protestors could resort to in negotations over political legitimacy *within* the existing political order as based in the provision *just rule* and the *safety of life*.
 
@@ -50,6 +50,7 @@ Despite the officials' promises and explanations the "flour calamity" continued:
 [^14]: {muqtabas 162-eap}{iqbal 9-361}
 [^15]: {iqbal 9-360}
 
+## Food riots in Damascus, March 1878
 
 ## 1.3 First observations (1 min)
 
@@ -94,11 +95,40 @@ The incident is puzzling: Poor people, suffering from high prices of flour and b
     + from Beirut: *Lisān al-Ḥāl*, *al-Bashīr*, *Thamarāt al-Funūn*, *al-Iqbāl*, *al-Ittiḥād al-ʿUthmānī*
     + from Damascus: *al-Muqtabas*
     + from Hama: *Lisān al-Sharq*
+    + from Jerusalem: *al-Quds*
 - Consular reports
     + British, US, German
 - Ottoman archival documents
 - First person accounts
 
+## 2.3 Sources: newspapers
+
+- state of collections:
+    + few periodicals are preserved in their entirety
+    + scattered across the globe
+    + usually via microfilm: increasing number of digital images
+    + no bibliographic metadata
+- mode of production
+    + question of print runs
+    + question of destribution
+    + question of censorship
+
+- two images on the slides
+    + ![*al-Muqtabas* #1813, 1 Feb 1916: reporting a "food riot" in Damascus?](../assets/muqtabas-1813.jpg)
+        * the municipality announced that the reason for the long cues in front of the ovens and bakeries and the alarm among the populace is the lining up of those who had kept their wheat in their homes. People and the poor then began to crowd together in the hope to buy bread and the plenty of wheat became known to the public (al-ʿumūm).
+        * the municipality and the police do nothing [against] those who dare to harass the people and the poor in this manner
+        * and it remains to those who have hoarded wheat to use and eat it and not further keep it and the stores of those who do not do so should be ceased and shared with the poor
+    + ![*al-Muqtabas* #1837, 1 Mar 1916: reporting a "food riot" in Damascus?](../assets/muqtabas-1837.jpg)
+        * yesterday, the baladiyya was crowded (*izduḥimat*) with poor women (*bi-l-faqīrāt min al-nisāʾ*).
+        * due to the generosity of Enver Pasha / Anwar Pasha money was distributed among them
+
+## ## 2.4 Sample
+
+- c. 600 price observations for cereals and bread
+- c. 400 qualitative statements on food prices
+- 19 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem <!-- ([Map](../assets/Map-FoodRiots.html), [table](../assets/Table-FoodRiots.html)) -->
+
+![Distribution of my sample of food riots](../assets/map_food-riots-1874-1916.png)
 
 # 3. First results and argument (4 min)
 ## 3.1 Empirical results
@@ -108,6 +138,14 @@ Sample of 15 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama,
 1. There is no direct relation between food riots and food prices ([graph](../assets/timeplotGrainPricesDamascus.html))
     + food riots and food prices are only loosely related
 2. Food riots are a relatively stable "repertoire of contention" and take the form of a demonstration
+
+## Food prices and food riots
+
+- short comment on the political economy of food supplies in *Bilād al-Shām*
+    + why wheat prices?
+    + wholesale price of wheat tied to the retail price of bread
+    + diet of poor majority based on cereals
+    + demand inelastic / increasing in times of high prices (all other food is removed from the diet)
 
 ## 3.2 argument
 ### argument: function and "nature" of food riots? 
