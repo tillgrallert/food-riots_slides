@@ -32,22 +32,24 @@ Email: <grallert@orient-institut.org>
 <!-- Map of Beirut -->
 ![Map: Wagner & Debes. "Beyrout: Vieille Ville et Bazar." *Palestine and Syria with Routes Through Mesopotamia and Babylonia and the Island of Cyrus: Handbook for Travellers.* 1:25000. 5. ed. Leipzig: Karl Baedeker, 1912.](../assets/map_Beirut-Baedeker-1912-annotated.jpg)
 
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_beirut.geojson?height=400&width=800"></script>
+## 1.1 Food riot in Beirut, 11 August 1908
+
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_beirut.geojson?height=600&width=800"></script>
 
 ## 1.1 Food riots in Damascus, March 1878
 
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=400&width=800"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=800"></script>
 
 ## 1.1 Food riots in Damascus, March 1878
 
-<div class="c_left">
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=400&width=300"></script>
-</div>
-
-<div class="c_width-60">
+<div class="c_left c_width-60">
 
 ![LoC LOT 3249-8 Bain, Robert Edward Mather. *Revolt in prison, Damascus.* Damascus, 1894. [http://hdl.loc.gov/loc.pnp/cph.3c12363 (accessed September 28, 2009)](http://hdl.loc.gov/loc.pnp/cph.3c12363)](../assets/photo_Damascus-prison-revolt.jpg)
 
+</div>
+
+<div class="c_right c_width-30">
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=200"></script>
 </div>
 
 ## 1.2 First observations
@@ -119,8 +121,8 @@ Email: <grallert@orient-institut.org>
 
 ## 2.4 Sample
 
-- c. 600 price observations for cereals and bread
-- c. 400 qualitative statements on food prices
+- c.600 price observations for cereals and bread
+- c.400 qualitative statements on food prices
 - 19 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem <!-- ([Map](../assets/Map-FoodRiots.html), [table](../assets/Table-FoodRiots.html)) -->
 
 ![Distribution of my sample of food riots](../assets/map_food-riots-1874-1916.png)
@@ -128,23 +130,25 @@ Email: <grallert@orient-institut.org>
 <!-- there is this great map of Bilād al-Shām showing the routes of transportation/ communication: von Südenhorst, Julius Zwiedinek and Heinrich Kiepert. "Karte der See- und Land-Communication in Syrien Nach H. Kiepert." *Syrien und Seine Bedeutung Für den Welthandel.* N.Pl.: A.Hölder, 1873 -->
 
 # 3. First results and argument
-
 ## 3.1 Empirical results
 
 1. There is no direct relation between food riots and food prices
 2. Food riots are a relatively stable "repertoire of contention" and take the form of a demonstration
 
-## Food prices and food riots
+## 3.1 Food prices and food riots
 
 <!-- wheat prices -->
 ![](../assets/rplot_prices-wheat-1874-1916_box-plot.png)
 
-## Food prices and food riots: annual cycle
+<!-- food prices: deviation from the mean -->
+![](../assets/rplot_prices-food-1874-1916_deviation-from-mean.png)
+
+## 3.1 Food prices and food riots: annual cycle
 
 <!-- wheat prices annual cycle -->
 ![](../assets/rplot_prices-wheat-1874-1916_annual-cycle-box.png)
 
-## Food prices and food riots: qualitative statements
+## 3.1 Food prices and food riots: qualitative statements
 <!-- qualitative statements on food prices -->
 ![](../assets/rplot_prices-food-1874-1916_trends.png)
 
@@ -168,7 +172,9 @@ Email: <grallert@orient-institut.org>
 
 ![Map: Pentz, Peter. *The Medieval Citadel and Its Architecture.* Hama: fouilles et recherches de la fondation Carlsberg 1931-1938 IV/1. København: Nationalmuseet, 1998](../assets/map-Hama-marked-up.jpg)
 
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_hama.geojson?height=400&width=800"></script>
+## 4.1 Food riot in Hama, 11 August 1910
+
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_hama.geojson?height=600&width=800"></script>
 
 ## 4.1 Food riot in Hama, 11 August 1910
 
@@ -250,13 +256,13 @@ the populace
 
 <!-- <div class="c_width-50"> -->
     
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=400&width=800"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=400"></script>
 
 <!-- </div>
 
 <div class="c_width-50"> -->
     
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=400&width=800"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=600&width=400"></script>
 
 <!-- </div> -->
 
@@ -287,9 +293,19 @@ the populace
 
 # 6. Conclusion
 
-## 6. Conclusion
+## Conclusion
 
 - Contrary to common arguments and presumptions, we find a long "tradition" of popular contentions in general and food "riots" in particular as well as female agency in genuinely political struggles in public places / space.
 - There is no direct causal relation between food prices and food riots.
 - Food riots form a relatively stable "repertoire of contention".
 - Food riots are a **tactic** choice on behalf of the protestors and an inherently political act. They are part of the negotiations over political legitimacy **within** the existing political order as based in **just rule**, **safety of life**
+
+## Thank you 
+
+Slides: [tillgrallert.github.io/slides/name](https://tillgrallert.github.io/slides/name) ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/))
+
+Data: <!-- [![DOI](https://zenodo.org/badge/106953939.svg)](https://zenodo.org/badge/latestdoi/106953939) --> [github.com/tillgrallert/food-riots_data](https://www.github.com/tillgrallert/food-riots_data), [github.com/tillgrallert/food-riots_tools](https://www.github.com/tillgrallert/food-riots_tools) ([CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/))
+
+Twitter: @[tillgrallert](https://twitter.com/tillgrallert)
+
+Email: <grallert@orient-institut.org>

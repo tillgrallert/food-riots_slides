@@ -52,6 +52,58 @@ Despite the officials' promises and explanations the "flour calamity" continued:
 
 ## Food riots in Damascus, March 1878
 
+Groups of poor women took to the streets and marched on the municipality of Damascus on 12 March 1878 to call for a subsidy of Ps 1 on every *raṭl* of dark bread currently sold at a price of Ps 3.[^cf3] {--Apparently unsuccessful,--} the next Friday, on the eve of *mawlid nabawī* (Prophet's birthday) on 12 Rabīʿ I 1295 aH (16 March 1878), and during the following days, the demonstrations escalated into a full-fledged food riot. Only days before newspapers in Beirut printed reports on the signing of the peace treaty of San Stefano between Russia and the Ottoman Empire that had been negotiated in early March[^cf4], starving women, chiefly the families of absent troops,[^cf5] marched to *Marja* square, the centre of Ottoman authority and location of the central prison and various barracks, the military schools, the post and telegraph offices, the site of the only hotel and some cafés.[^cf6] There they "invade[d] the precincts of the Serail daily crying before the wi[n]dows of the governor, 'Give us bread; give us bread!'" (Levant Herald 28 Mar. 1878)[^cf7] and presented a loaf of black and badly smelling bread to the governor.
+
+The British Vice-Consul Thomas Jago, further underlined the violent character of the protests:
+
+>This general feeling of discontent & disaffection against every thing Ottoman---proceeding out of recent events, showed itself forcibly on the 16.th instant & following days when owing to a rise in the already high price of bread, a mob of women, chiefly the families of departed Radifs, stormed the Seraïl of Damascus, the official residence of Djevdet Pasha, the newly appointed Gov.r Gen. of Syria.
+
+>Bitter curses upon the Sultan & his Gov.t for the evils which have lately fallen upon the land were liberally showered upon the Pasha, as well as allusions to the corruption of the administration in general and of Governors General in particular. Reproaches for the losses of their male relatives were interspersed with hopes from the more desperate that the Russians would take Syria & thus relieve them from the curse upon them."[^cf8]
+
+>(PRO FO 226/197 Damascus Political 5, *State of Affairs in Damascus*, Jago to Earl of Derby 27 Mar. 1878)
+
+Such grave a step was certainly facilitated by the fact that a new governor, Cevdet Pasha (March-December 1878), arrived only two weeks before and could not draw on reliable alliances within the city. Furthermore there was no one left for the protection of the palace. Most of the troops were absent on the killing fields---of the 28 battalions of the 5th Army Corps only one remained garrisoned in Damascus---[^cf9]and the badly, if at all, paid police force was equally hard hit by the bread prices.[^cf10] 
+
+Not much is known about the governor's reaction and nothing about the fate of the protestors.[^cf11] But newspapers in Beirut and Istanbul, printed articles in which the protests were displayed as being chiefly directed against hoarding and fraud amongst the grain merchants, which were then successfully battled by the governor and the authorities:
+
+>"In this situation he [the governor general] issued strict orders to the head of the municipality and to Ḥasan Āğā Būẓū [binbaşı of the police (*zabtiye*) and its deputy commander]. [...] Some houses of wheat hoarders (*buyūt muḥtakirī al-qamḥ*) were inspected with the help of Saʿīd Pasha and ʿUthmān Bey. They extracted an ample amount of wheat (*khinṭa*) that [then] was brought to the Serail. In addition, a number of bakers were paraded around in the streets in shackles."[^cf12]
+
+>(Thamarāt al-Funūn 21 Mar. 1878 (#151):4)
+
+{-->"Le Hadika-ul-Akhbar, journal official publié à Beyrouth, dit qu'une réunion d'indigents et de pauvres s'est tenue la semaine dernière devant le sérail du gouvernement à Damas, en faisant entendre des murmures et des plaintes contre la rareté du pain, la mauvaise qualité de celui livré à la consommation, jointe à l'excessive élévation du prix, et cela vu l'absence des céréales que des entrepreneurs avaient emmagasinées a qu'ils refusaient de livrer au marché. Le vali, Djevdet pacha, se rendit immédiatement au Conseil administratif et concerta les mesures nécessaires pour faire cesser cet état de choses. Les magasins du Méidan remplis de blé ont été ouverts au marché et les boulangers ont pu ainsi se fournier du blé qui leur était nécessaire et livrer à la consommation une bonne qualité de blé, à un prix relativement fort réduit."[^cf13]--}
+
+Neither *Lisān al-Ḥāl*, Beirut's leading private newspaper, nor *al-Bashīr* published any article on these protests and the asserted improvement in grain prices. Instead, one can find reports on further soaring prices, reaching Ps 70 per *kile* of wheat in mid-April before the new and abundant harvests brought relief in May and June.[^cf14]
+
+[^cf1]: {TheLevantHerald 1878c}:
+
+    >"La plus grande misère règne à Damas. Des troupes de femmes affamées envahissent chaque jour les alentours du palais du gouverneur en criant sous les fenêtres du vali: 'Donnez-nous du pain! Donnez-nous du pain!'"
+
+[^cf2]: {TheLevantHerald 1877i@2}
+
+[^cf3]: {thamarat 151a}
+
+[^cf4]: {bashir 393@3; TheLevantHerald 1878a@2 }
+
+[^cf5]: {thamarat 151a; Jago 1878l}
+
+[^cf6]: For the development of this particularly Ottoman area see {Weber 1998}.
+
+[^cf7]: {TheLevantHerald 1878b@2}
+
+[^cf8]: {Jago 1878l}
+
+[^cf9]: {Jago 1878l; Cooke 1968@14, 31, 57–8}
+
+[^cf10]: {Jago 1878d; lisan 41@4}; the police forces of the Gendarmerie and *zabtiye* were allotted a weekly payment of Ps 20 to 50, {lisan 111@4; Jago 1879o}.
+
+[^cf11]: {Gross 1979@249–250} recounts with the errant reference to {Jago 1878f} and a French archival source that Cevdet Pasha had to call in troops to disperse the angry women and that he undertook decisive and successful steps to lower the bread prices.
+
+[^cf12]: {thamarat 151a}
+
+[^cf13]: {TheLevantHerald 1878d}
+
+[^cf14]: {bashir 398@4; lisan 53@4, lisan 54@1}; the price fell to Ps 25 to 26 per bushel in late June, {lisan 67@3}.
+
 ## 1.3 First observations (1 min)
 
 + shared belief in a paternalist economic model
@@ -124,8 +176,8 @@ The incident is puzzling: Poor people, suffering from high prices of flour and b
 
 ## ## 2.4 Sample
 
-- c. 600 price observations for cereals and bread
-- c. 400 qualitative statements on food prices
+- c.600 price observations for cereals and bread
+- c.400 qualitative statements on food prices
 - 19 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem <!-- ([Map](../assets/Map-FoodRiots.html), [table](../assets/Table-FoodRiots.html)) -->
 
 ![Distribution of my sample of food riots](../assets/map_food-riots-1874-1916.png)
@@ -133,10 +185,7 @@ The incident is puzzling: Poor people, suffering from high prices of flour and b
 # 3. First results and argument (4 min)
 ## 3.1 Empirical results
 
-Sample of 15 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem ([Map](../assets/Map-FoodRiots.html), [table](../assets/Table-FoodRiots.html))
-
-1. There is no direct relation between food riots and food prices ([graph](../assets/timeplotGrainPricesDamascus.html))
-    + food riots and food prices are only loosely related
+1. There is no direct relation between food riots and food prices
 2. Food riots are a relatively stable "repertoire of contention" and take the form of a demonstration
 
 ## Food prices and food riots
@@ -208,7 +257,6 @@ In the aftermath of these events (called *ḥādithat Ḥamā*[^14] and *fitna*)
 ## 1 Repertoire of contention: prologue (weeks)
 
 
-
 1. Period of *artificially* high prices
     + there seems to be a rather stable threshold to the "just" price
         * As numerous scholars have observed, direct control of prices or even price fixing is highly contentious within Islamic legal discourses and the practices of Muslim rulers. The concept of *ḥisba*, when it comes to *just* prices, focusses on enabling and protecting just relations of exchange so that sellers and buyers will be able to negotiate in a fair manner and thus arrive at a fair solution. In this system bread prices are closely tied to grain prices, which can vary widely.
@@ -261,6 +309,34 @@ A common term for reporting food riots is the generic "incident" (*ḥāditha*).
     + has looters apprehended
 9. No reports on falling grain prices.
 <!-- 10. Eventual prosecution of looters -->
+
+# What are the implications of this repertoire?
+## The politics of notables?
+
+- Generally strong argument for a persistence of the three-tiered Ottoman *ancien régime* well into the 20th century
+- But where are the notables?
+    + They manned the *baladiyya*!
+    + Could have used food riots to improve their own negotiating power vis-a-vis the authorities
+
+## What about the Islamic character of contentions?
+
+- All contention invariably starts at the Friday mosques (Burke)
+    + this is certainly not true and *food riots* had no Islamicate overtones (the right to life is certainly more universal)
+
+## What about the public/private divide and gender segregation? 
+
+- the "Islamic City" paradigm is frequently invoked ouside the circles of specialists
+- historians of 20th century Middle East: 
+    + "gender marked the old public private divide and therefore it had to become the bounding principle in conflicts over control of new spaces." (Elizabeth Thompson)
+    + elite women were the first to transgress these boundaries
+- historians of pre-20th century Middle East, me
+    + public/private is part of the colonial / modernising project
+    + the exclusion from *public affairs* was relevant for men and women of the third tier of the Ottoman *ancien régime*
+    + poor majority of women could not afford the luxury of privacy
+
+## novelty of demonstrations?
+
+- Gelvin, Thompson et al.
 
 
 # 5. Conclusion
