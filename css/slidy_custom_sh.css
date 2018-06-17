@@ -17,8 +17,8 @@ body {
   padding: 0 0 0 0;
   width: 100%;
   height: 100%;
-  color: black;
-  background-color: white;
+  color: white;
+  background-color: black;
   overflow: hidden;
   /*font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif; 
   font-size: 12px;*/
@@ -191,7 +191,7 @@ div.slide {
   background-color: transparent;
   /* width should be in em dashes*/
   /* why?*/
-  max-width: 50em;
+  max-width: 90%;
   /*margin: auto;*/
 }
 
@@ -468,6 +468,9 @@ lists
 
 ul, ol {
   font-style: normal;
+  text-align: left;
+  margin-right: 2em;
+  margin-left: 2em;
 }
 
 ul { list-style-type: circle; }
