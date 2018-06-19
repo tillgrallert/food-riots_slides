@@ -39,6 +39,11 @@ Email: <grallert@orient-institut.org>
 <script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=200"></script>
 </div>
 
+## 1.1 Food riots in Damascus, March 1878
+
+<!-- Aerial photograph -->
+![LoC LC-M32- B-199[P&P] G. Eric and Edith Matson Photograph Collection. Unknown photographer. Jerusalem: American Colony, 1922. [http://hdl.loc.gov/loc.pnp/matpc.05599 (accessed September 28, 2009)](http://hdl.loc.gov/loc.pnp/matpc.05599)](../assets/photo_Damascus-aerial-from-west.jpg)
+
 ## 1.2 Food riot in Beirut, 11 August 1908
 
 <!-- Map of Beirut -->
@@ -47,6 +52,11 @@ Email: <grallert@orient-institut.org>
 ## 1.2 Food riot in Beirut, 11 August 1908
 
 <script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_beirut.geojson?height=600&width=800"></script>
+
+## 1.2 Food riot in Beirut, 11 August 1908
+
+<!-- Aerial photograph -->
+![No. G130854. David, G. et al.. *Beyrouth.* N.Pl.: Établissement cinématographique et photographique des armées (France). Photographe, 1927. [http://gallica.bnf.fr/ark:/12148/btv1b8443060c/f5.item (accessed January 23, 2017)](http://gallica.bnf.fr/ark:/12148/btv1b8443060c/f5.item)](../assets/photo_Beirut-aerial-from-east.jpg)
 
 ## 1.3 First observations
 
@@ -198,17 +208,17 @@ the populace
 
 - All contention invariably starts at the Friday mosques (Burke)
 
-<!-- <div class="c_width-50"> -->
+<div class="c_width-50 c_left">
     
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=400"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_damascus.geojson?height=600&width=350"></script>
 
-<!-- </div>
+</div>
 
-<div class="c_width-50"> -->
+<div class="c_width-50 c_right">
     
-<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=600&width=400"></script>
+<script src="https://embed.github.com/view/geojson/tillgrallert/food-riots_data/master/maps/map_homs.geojson?height=600&width=350"></script>
 
-<!-- </div> -->
+</div>
 
 ## What about the public/private divide and gender segregation? 
 
