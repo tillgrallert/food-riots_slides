@@ -69,7 +69,6 @@ Email: <grallert@orient-institut.org>
 - failure to achieve to stated objective
 
 # 2. Question and methodology
-
 ## 2.1 Research question
 
 1. What is the **function** of food riots<!-- ---immediate remedy for hunger, lower and stable bread prices in the long term, political change? -->
@@ -130,7 +129,7 @@ Email: <grallert@orient-institut.org>
 
 - c.600 price observations for cereals and bread
 - c.400 qualitative statements on food prices
-- 19 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem <!-- ([Map](../assets/Map-FoodRiots.html), [table](../assets/Table-FoodRiots.html)) -->
+- 19 food riots between 1875 and 1920 in Aleppo, Beirut, Damascus, Hama, Homs, Jaffa, and Jerusalem
 
 ![Distribution of my sample of food riots](../assets/map_food-riots-1874-1916.png)
 
@@ -150,17 +149,17 @@ Email: <grallert@orient-institut.org>
 <!-- food prices: deviation from the mean -->
 ![](../assets/rplot_prices-food-1874-1916_deviation-from-mean.png)
 
-## 3.1 Food prices and food riots: annual cycle
-
-<!-- wheat prices annual cycle -->
-![](../assets/rplot_prices-wheat-1874-1916_annual-cycle-box.png)
 
 ## 3.1 Food prices and food riots: qualitative statements
-<!-- qualitative statements on food prices -->
+
 ![](../assets/rplot_prices-food-1874-1916_trends.png)
 
 ![](../assets/rplot_prices-wheat-1874-1916_box-plot-trends.png)
 
+## 3.1 Food prices and food riots: annual cycle
+
+<!-- wheat prices annual cycle -->
+![](../assets/rplot_prices-wheat-1874-1916_annual-cycle-box.png)
 
 
 ## 3.2 <!-- Hypotheses --> argument
@@ -172,7 +171,6 @@ Email: <grallert@orient-institut.org>
 5. Food riots are thus part of the negotiations over political legitimacy **within** the existing political order as based in **just rule**, **safety of life**, etc. The demands are conservative and principally recognised as legitimate
 
 # 4. Repertoire of contention
-
 ## 4.1 Food riot in Hama, 11 August 1910
 
 <!-- Map of Hama -->
@@ -195,6 +193,11 @@ Email: <grallert@orient-institut.org>
 
 <!-- Photo of the Serail  -->
 ![Wattar Frères No. 62. Unknown photographer. HAMA (Syrie) — Vue du Serail. Alep: Wattar Frères, 1922.](../assets/photo-Hama-2.jpg)
+
+## 4.1 Food riot in Hama, 11 August 1910
+
+<!-- Photo of the *baladiyya*  -->
+![*[Vues Aériennes de Syrie et du Liban] / 39e Régiment D'aviation [Armée du Levant].* Photography by G. David, Loquinaire and L. Piat. N.Pl.: Établissement cinématographique et photographique des armées (France). 1927, G130863 [http://gallica.bnf.fr/ark:/12148/btv1b8443060c/f14.item](http://gallica.bnf.fr/ark:/12148/btv1b8443060c/f14.item)](../assets/photo-Hama-G130863.png)
 
 ## 4.1 Food riot in Hama, 11 August 1910
 
